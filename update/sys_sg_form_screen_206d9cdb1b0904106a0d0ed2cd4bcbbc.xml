@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-File">686dd8db1b0904106a0d0ed2cd4bcbfa</icon>
+        <item_view display_value="Meeting Detail Screen Item View">e46d1cdb1b0904106a0d0ed2cd4bcb01</item_view>
+        <name>Meetings</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-16 08:29:53</sys_created_on>
+        <sys_id>206d9cdb1b0904106a0d0ed2cd4bcbbc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Meetings</sys_name>
+        <sys_package display_value="Sales Meeting" source="x_snc_sales_meet">bf3c189b1b0904106a0d0ed2cd4bcbc6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Meeting">bf3c189b1b0904106a0d0ed2cd4bcbc6</sys_scope>
+        <sys_update_name>sys_sg_form_screen_206d9cdb1b0904106a0d0ed2cd4bcbbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-16 08:34:31</sys_updated_on>
+        <table>x_snc_sales_meet_meeting</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=206d9cdb1b0904106a0d0ed2cd4bcbbc"/>
+</record_update>

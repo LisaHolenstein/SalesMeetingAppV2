@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Meeting Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Meetings">e86d9cdb1b0904106a0d0ed2cd4bcbba</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-16 08:29:53</sys_created_on>
+        <sys_id>ec6d9cdb1b0904106a0d0ed2cd4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Meeting Item Stream Segment</sys_name>
+        <sys_package display_value="Sales Meeting" source="x_snc_sales_meet">bf3c189b1b0904106a0d0ed2cd4bcbc6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Meeting">bf3c189b1b0904106a0d0ed2cd4bcbc6</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_ec6d9cdb1b0904106a0d0ed2cd4bcbbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-16 08:29:53</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>
